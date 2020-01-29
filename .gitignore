@@ -1,4 +1,19 @@
 *.class
 *.log
-/.idea/
+/target/
+/scala-gatling-demo.iml
+# idea conf files
+.idea
+*.iml
+*.ipr
+*.iws
 
+# building
+target
+build
+null
+tmp
+temp
+dist
+test-output
+build.log
